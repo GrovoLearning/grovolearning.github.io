@@ -13,6 +13,10 @@
                             "entries": [
                                 {
                                     "type": "link",
+                                    "title": "Grovo Internal Home",
+                                    "url": "https://grovolearning.atlassian.net/wiki/"
+                                }, {
+                                    "type": "link",
                                     "title": "Homepage",
                                     "url": "https://www.grovo.com/"
                                 }, {
