@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "2.2",
-        "menu_set": "1.2.2",
+        "menu_set": "1.2.3",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
@@ -21,15 +21,11 @@
                                     "url": "https://www.grovo.com/"
                                 }, {
                                     "type": "link",
-                                    "title": "Galaxy",
-                                    "url": "https://galaxy.grovo.com/"
-                                }, {
-                                    "type": "link",
                                     "title": "Grovo Demo",
                                     "url": "https://demo.grovo.com/login"
                                 }, {
                                     "type": "link",
-                                    "title": "Service Desk",
+                                    "title": "IT Service Desk",
                                     "url": "https://grovolearning.atlassian.net/servicedesk/customer/portal/3"
                                 }, {
                                     "type": "link",
@@ -39,23 +35,6 @@
                                     "type": "link",
                                     "title": "Slack",
                                     "url": "https://grovo.slack.com/"
-                                }, {
-                                    "type": "link",
-                                    "title": "Fitness Schedule",
-                                    "url": "https://docs.google.com/spreadsheets/d/1x6n0fVY4WqNnOmecY7B_Nh5xbUuQgb-lP8f0we52nwk/edit#gid=0&vpid=A4"
-                                }
-                            ]
-                        }, {
-                            "heading": "Services",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "Uber",
-                                    "url": "https://www.uber.com/"
-                                }, {
-                                    "type": "link",
-                                    "title": "Seamless",
-                                    "url": "https://www.seamless.com/"
                                 }
                             ]
                         }, {
@@ -98,6 +77,10 @@
                             "entries": [
                                 {
                                     "type": "link",
+                                    "title": "Galaxy",
+                                    "url": "https://galaxy.grovo.com/"
+                                }, {
+                                    "type": "link",
                                     "title": "Grovo 2 Dashboard",
                                     "url": "https://docs.google.com/spreadsheets/d/1GgVhoXox8OwpRW5eujZ2OkWdtFh-1guwvVYWy-qMyBw/edit#gid=0"
                                 }, {
@@ -108,6 +91,65 @@
                                     "type": "link",
                                     "title": "Grovo 2 Project Home",
                                     "url": "https://grovolearning.atlassian.net/wiki/display/ENG/Grovo+2+-+Q3+home+page"
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "name": "People Resources",
+                    "sections": [
+                        {
+                            "heading": "HR Systems",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Bamboo HR",
+                                    "url": "https://grovo.bamboohr.com/dashboard/"
+                                }, {
+                                    "type": "link",
+                                    "title": "Paycor (Payroll and Check Stubs)",
+                                    "url": "https://secure.paycor.com"
+                                }, {
+                                    "type": "link",
+                                    "title": "Abacus (Expense Reports)",
+                                    "url": "https://www.abacus.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "Nationwide (Retirement Planning)",
+                                    "url": "https://www.nationwide.com"
+                                }, {
+                                    "type": "link",
+                                    "title": "People & Experience Service Desk",
+                                    "url": "https://grovolearning.atlassian.net/servicedesk/customer/portal/2"
+                                }
+                            ]
+                        }, {
+                            "heading": "Corporate Services",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Benefits Confluence",
+                                    "url": "https://grovolearning.atlassian.net/wiki/display/PTKB/Grovo+Benefits"
+                                }, {
+                                    "type": "link",
+                                    "title": "Fitness Class Schedule",
+                                    "url": "https://clients.mindbodyonline.com/classic/home?studioid=349510"
+                                }, {
+                                    "type": "link",
+                                    "title": "Uber",
+                                    "url": "https://www.uber.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "Seamless",
+                                    "url": "https://www.seamless.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "WageWorks (Perks and Discounts)",
+                                    "url": "https://participant.wageworks.com"
+                                }, {
+                                    "type": "link",
+                                    "title": "Red Door (Manicure)",
+                                    "url": "https://atwork.thereddoor.com/book"
                                 }
                             ]
                         }
